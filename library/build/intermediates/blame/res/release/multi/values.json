@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\MyApplication\\library\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2316,
+                    "endColumn": 42,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 42,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endColumn": 58,
+                    "endOffset": 2413
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 58,
+                        "endOffset": 1059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2418,
+                    "endColumn": 57,
+                    "endOffset": 2471
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endColumn": 57,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2476,
+                    "endColumn": 41,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 42,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2518,
+                    "endColumn": 49,
+                    "endOffset": 2563
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 49,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2568,
+                    "endColumn": 44,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 45,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 43,
+                    "endOffset": 2652
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 44,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2657,
+                    "endColumn": 47,
+                    "endOffset": 2700
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 48,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2705,
+                    "endColumn": 48,
+                    "endOffset": 2749
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\MyApplication\\library\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 771,
+                        "endColumn": 49,
+                        "endOffset": 816
+                    }
+                }
+            }
+        ]
+    }
+]

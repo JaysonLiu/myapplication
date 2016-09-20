@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    format="7"
+    timestamp="18518241319158"
+    token="6708493851742696996" >
+
+    <task
+        name="javac"
+        duration="5636" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2598" />
+    <task
+        name="verifier"
+        duration="415" />
+
+    <artifact
+        location="D:\AndroidStudioProjects\MyApplication\DongHua\build\outputs\apk\DongHua-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="18518241319158" >
+        <artifact
+            location="D:\AndroidStudioProjects\MyApplication\DongHua\build\outputs\apk\DongHua-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
